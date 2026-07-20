@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+
+# Proprietary chesco strategy document -- not committed; supply your own
+# copy locally at data/Chesco Forschungsstrategie 230326v1 (2).docx
+data/
+
+# Local Claude Code permission settings (machine-specific)
+.claude/settings.local.json
